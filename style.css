@@ -172,9 +172,7 @@ section{
     box-shadow: var(--box-shadow-inset);
     color: var(--pink);
 }
-.propos{
-    background-color: var(--pink1);
-}
+
 .propos .row{
     display: flex;
     align-items: center;
@@ -205,9 +203,6 @@ section{
 }
 .skills{
     background-color: var(--pink1);
-}
-.skills .row{
-    display: flex;
 }
 .skills .row:nth-child(3){
     padding-top: 5rem;
